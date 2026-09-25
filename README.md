@@ -14,4 +14,4 @@ This can be built upon with many additional features like:
 - Company tools like timesheet tracking and clocking in and out
 
 ### Icon idea mockup
-![a stack of hubs: idea for the icon](./Icon/HUBstack_icon-idea_small.webp)
+![a stack of hubs: I know it looks like the claude logo](./Icon/HUBstack_icon-idea_small.webp)
