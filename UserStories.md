@@ -1,5 +1,8 @@
 # User Stories
 ## Basic User
+"As a **Basic User** I would like to view and mark tasks assigned to me as completed." (Basic Task Organizing)</br>
+"As a **Basic User** I want to view company and department announcements." (Announcements/News Feed)</br>
+"As a **Basic User** I would like to able to request additional permissions." (Hierarchical User Permissions)</br>
 “As a **Basic User** I would like to access apps that I have permission to use.” (centrally organize apps)</br>
 “As a **Basic User** I would like to access files on a central network drive.” (access network drive)</br>
 “As a **Basic User** I would like to view announcements related to my job.” (announcements/news feed)</br>
@@ -9,6 +12,7 @@
 “As a **Basic User** I would like to find help by searching key terms related to my issue.” (faq/helpdesk)</br>
 </br>
 ## Elevated User
+"As an **Elevated User** I would like to be able to assign tasks to basic users for them to complete." (Basic Task Organizing)</br>
 "As an **Elevated User** I want to publish announcements to my department so that I can communicate relevant information to my team." (Announcements/News Feed)</br>
 </br>
 ## Admin
